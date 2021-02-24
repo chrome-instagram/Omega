@@ -3,17 +3,17 @@
 
 ///Edit Under This only
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyCg5JBg4Yc5EqvMahTVDpPolkGpGhAGHjA",
+  authDomain: "insta-5fd31.firebaseapp.com",
+  databaseURL: "https://insta-5fd31-default-rtdb.firebaseio.com",
+  projectId: "insta-5fd31",
+  storageBucket: "insta-5fd31.appspot.com",
+  messagingSenderId: "688464352654",
+  appId: "1:688464352654:web:faab42b05261e2d82800df",
+  measurementId: "G-E3VJ9BT1G3"
 };
-
      
  
 ////Do Not Edit Below This
